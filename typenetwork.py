@@ -184,7 +184,7 @@ typefaces = [('adobe garamond', ['serif', 'high contrast', 'stress', 'open count
        ]
 
 
-f, t = build_graphs (ft1, pmi)
+f, t = build_graphs (typefaces, pmi)
 nx.write_gml(t, 'tags.gml')
 nx.write_gml(f, 'typefaces.gml')
 

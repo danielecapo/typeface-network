@@ -156,30 +156,30 @@ def filter_tags (fonts, s):
 
 
 typefaces = [('adobe garamond', ['serif', 'high contrast', 'stress', 'open counters', 'small eye', 'brackets', 'angled connection']),\
-           ('bodoni', ['serif', 'very high contrast', 'double curve R leg', 'closed counters', 'b with serif', 'medium eye', 'balls', 'spurs', 'continous connection']),\
-           ('baskerville' , ['serif', 'high contrast', 'open counters', 'medium eye', 'brackets', 'spurs', 'continous connection']),\
-           ('helvetica', ['sans', 'no contrast', 'double curve R leg', 'mono g', 'closed counters', 'large eye', 'spurs', 'horizontal cut', 'continous connection']),\
+           ('bodoni', ['serif', 'very high contrast', 'double curve R leg', 'closed counters', 'b with serif', 'medium eye', 'balls', 'spurs', 'continuous connection']),\
+           ('baskerville' , ['serif', 'high contrast', 'open counters', 'medium eye', 'brackets', 'spurs', 'continuous connection']),\
+           ('helvetica', ['sans', 'no contrast', 'double curve R leg', 'mono g', 'closed counters', 'large eye', 'spurs', 'horizontal cut', 'continuous connection']),\
            ('meta', ['sans', 'very low contrast', 'open counters', 'large eye', 'diagonal cut', 'angled connection']), \
            ('centaur', ['serif', 'high contrast', 'stress', 'open counters', 'small eye', 'brackets', 'diagonal e bar', 'spurs', 'angled connection']),\
            ('fournier' , ['serif', 'high contrast', 'double curve R leg', 'open counters', 'b with serif', 'medium eye', 'angled connection']),\
-           ('clarendon', ['serif', 'contrast',  'double curve R leg', 'closed counters', 'large eye', 'balls', 'spurs', 'continous connection']),\
-           ('didot', ['serif', 'very high contrast', 'double curve R leg', 'closed counters', 'b with serif', 'large eye', 'balls', 'spurs', 'continous connection']),\
+           ('clarendon', ['serif', 'contrast',  'double curve R leg', 'closed counters', 'large eye', 'balls', 'spurs', 'continuous connection']),\
+           ('didot', ['serif', 'very high contrast', 'double curve R leg', 'closed counters', 'b with serif', 'large eye', 'balls', 'spurs', 'continuous connection']),\
            ('scala sans', ['sans', 'stress', 'very low contrast', 'open counters', 'medium eye', 'diagonal cut', 'angled connection']),\
-           ('franklin gothic', ['sans', 'very low contrast', 'closed counters', 'large eye', 'spurs', 'diagonal cut', 'continous connection']),\
-           ('grotesque mt', ['sans', 'no contrast', 'mono g', 'closed counters', 'large eye', 'diagonal cut', 'continous connection']),\
-           ('din', ['sans', 'no contrast', 'mono g', 'open counters', 'large eye', 'geometric', 'diagonal cut', 'continous connection']),\
-           ('frutiger', ['sans', 'no contrast', 'mono g', 'open counters', 'large eye', 'vertical cut', 'continous connection']),\
-           ('univers', ['sans', 'no contrast', 'mono g', 'large eye', 'horizontal cut', 'closed counters', 'continous connection']),\
+           ('franklin gothic', ['sans', 'very low contrast', 'closed counters', 'large eye', 'spurs', 'diagonal cut', 'continuous connection']),\
+           ('grotesque mt', ['sans', 'no contrast', 'mono g', 'closed counters', 'large eye', 'diagonal cut', 'continuous connection']),\
+           ('din', ['sans', 'no contrast', 'mono g', 'open counters', 'large eye', 'geometric', 'diagonal cut', 'continuous connection']),\
+           ('frutiger', ['sans', 'no contrast', 'mono g', 'open counters', 'large eye', 'vertical cut', 'continuous connection']),\
+           ('univers', ['sans', 'no contrast', 'mono g', 'large eye', 'horizontal cut', 'closed counters', 'continuous connection']),\
            ('jannon', ['serif', 'high contrast', 'stress', 'open counters', 'small eye', 'angled connection']),\
-           ('walbaum', ['serif', 'very high contrast', 'closed counters', 'medium eye', 'double curve R leg', 'continous connection']),\
-           ('akzidenz', ['sans', 'no contrast', 'closed counters', 'diagonal cut', 'mono g', 'large eye', 'spurs', 'continous connection']),\
+           ('walbaum', ['serif', 'very high contrast', 'closed counters', 'medium eye', 'double curve R leg', 'continuous connection']),\
+           ('akzidenz', ['sans', 'no contrast', 'closed counters', 'diagonal cut', 'mono g', 'large eye', 'spurs', 'continuous connection']),\
            ('fleischmann', ['serif', 'high contrast', 'double curve R leg', 'open counters', 'medium eye', 'brackets', 'spurs', 'balls', 'angled connection']),\
            ('minion', ['serif', 'high contrast', 'open counters', 'medium eye', 'stress', 'brackets', 'angled connection']),\
            ('caslon', ['serif', 'high contrast', 'open counters', 'small eye', 'brackets', 'spurs', 'angled connection']),\
            ('alright sans', ['sans', 'no contrast', 'open counters', 'large eye', 'diagonal cut', 'angled connection']),\
            ('miller', ['serif', 'high contrast', 'double curve R leg', 'closed counters', 'medium eye', 'balls', 'spurs', 'angled connection']),\
-           ('eurostile', ['sans', 'no contrast', 'closed counters', 'large eye', 'horizontal cut', 'continous connection', 'square']),\
-           ('swift', ['serif', 'hight contrast', 'open counters', 'stress', 'angled connection', 'medium eye']),\
+           ('eurostile', ['sans', 'no contrast', 'closed counters', 'large eye', 'horizontal cut', 'continuous connection', 'square']),\
+           ('swift', ['serif', 'high contrast', 'open counters', 'stress', 'angled connection', 'medium eye']),\
            ('news gothic', ['sans', 'no contrast', 'closed counters', 'large eye', 'spurs', 'diagonal cut', 'angled connection'])
        ]
 
